@@ -1,0 +1,52 @@
+Density Bails: high
+Concentration of bails: low
+Modularity: three
+Score Dispersion: low
+Task Sensor Dispersion: low
+Bug Sensor Dispersion: high
+Density Bugs: high
+Cost of Moving: high
+Cost of Moving Dispersion: high
+Cost of Photo: high
+Cost of Photo Dispersion: high
+Resources: high
+Resources Dispersion: high
+Density Bails: high
+Concentration of bails: low
+Modularity: three
+Score Dispersion: low
+Task Sensor Dispersion: low
+Bug Sensor Dispersion: high
+Density Bugs: high
+Cost of Moving: high
+Cost of Moving Dispersion: high
+Cost of Photo: high
+Cost of Photo Dispersion: high
+Resources: high
+Resources Dispersion: high
+Density Bails: high
+Concentration of bails: low
+Modularity: three
+Score Dispersion: low
+Task Sensor Dispersion: low
+Bug Sensor Dispersion: high
+Density Bugs: high
+Cost of Moving: high
+Cost of Moving Dispersion: high
+Cost of Photo: high
+Cost of Photo Dispersion: high
+Resources: high
+Resources Dispersion: high
+Density Bails: high
+Concentration of bails: low
+Modularity: three
+Score Dispersion: low
+Task Sensor Dispersion: low
+Bug Sensor Dispersion: high
+Density Bugs: high
+Cost of Moving: high
+Cost of Moving Dispersion: high
+Cost of Photo: high
+Cost of Photo Dispersion: high
+Resources: high
+Resources Dispersion: high

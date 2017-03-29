@@ -1,0 +1,13 @@
+Density Bails: high
+Concentration of bails: low
+Modularity: three
+Score Dispersion: low
+Task Sensor Dispersion: high
+Bug Sensor Dispersion: low
+Density Bugs: high
+Cost of Moving: superlow
+Cost of Moving Dispersion: low
+Cost of Photo: superlow
+Cost of Photo Dispersion: low
+Resources: superlow
+Resources Dispersion: low
